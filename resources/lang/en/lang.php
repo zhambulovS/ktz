@@ -1,0 +1,46 @@
+<?php
+return[
+    'title' => 'JSC «KTZ Express»',
+    'laravel' => 'Laravel',
+    'home' => 'Home',
+    'about' => 'About',
+    'contact'=>'Contact',
+    'post'=>'Post',
+    'login'=>'Login',
+    'register'=>'Register',
+    'copyright'=>'All rights reserved.',
+    'kz' => 'Kazakh',
+    'ru' => 'Russian',
+    'en' => 'English',
+    'aboutUS' => 'ABOUT US',
+    'mission' => 'COMPANY MISSION',
+    'textMission'=>'To provide high-quality and reliable full range of transport and logistics services across all types of communication, with continuous improvement of business processes, based on the application of cutting-edge technologies.',
+    'vision'=>'VISION',
+    'textVision'=>'Leadership in the international multimodal cargo transportation market. Providing high-quality services at optimal prices.',
+    'goals'=>'COMPANY GOALS',
+    'textGoals'=>'-Improving service quality
+                  <br>-Automating business processes
+                  <br>-Attracting transit cargo flows
+                  <br>-Meeting budgetary targets
+                  <br>-Developing regional transportation network',
+    'yourName'=>'Full name',
+    'yourEmail'=>'Your email',
+    'yourNumber'=>'Your number',
+    'submit'=>'Submit',
+    'message'=>'Message',
+    'addPost'=>'Add Post',
+    'back'=>'Back',
+    'success'=>'Success',
+    'textSuccess'=>'successfully sent',
+    'full_name'=>'FULL NAME',
+    'email'=>'Email',
+    'number'=>'Phone number',
+    'search'=>'Search',
+    'new_user'=>'Create new account',
+    'forget_pass'=>'Forgot password',
+    'keep_me'=>'Keep me logged in',
+    'or_sign'=>'or login in with',
+    'pass'=>'Password',
+    'pass_review'=>'Confirm the password',
+];
+
